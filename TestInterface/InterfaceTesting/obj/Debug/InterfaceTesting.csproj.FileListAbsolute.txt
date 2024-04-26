@@ -1,0 +1,8 @@
+C:\Users\calvi\Documents\Belgium Assignments\Bachelor of Computing Second Year\PRG281\Project\InterfaceTesting\InterfaceTesting\bin\Debug\InterfaceTesting.exe.config
+C:\Users\calvi\Documents\Belgium Assignments\Bachelor of Computing Second Year\PRG281\Project\InterfaceTesting\InterfaceTesting\bin\Debug\InterfaceTesting.exe
+C:\Users\calvi\Documents\Belgium Assignments\Bachelor of Computing Second Year\PRG281\Project\InterfaceTesting\InterfaceTesting\bin\Debug\InterfaceTesting.pdb
+C:\Users\calvi\Documents\Belgium Assignments\Bachelor of Computing Second Year\PRG281\Project\InterfaceTesting\InterfaceTesting\obj\Debug\InterfaceTesting.csproj.AssemblyReference.cache
+C:\Users\calvi\Documents\Belgium Assignments\Bachelor of Computing Second Year\PRG281\Project\InterfaceTesting\InterfaceTesting\obj\Debug\InterfaceTesting.csproj.SuggestedBindingRedirects.cache
+C:\Users\calvi\Documents\Belgium Assignments\Bachelor of Computing Second Year\PRG281\Project\InterfaceTesting\InterfaceTesting\obj\Debug\InterfaceTesting.csproj.CoreCompileInputs.cache
+C:\Users\calvi\Documents\Belgium Assignments\Bachelor of Computing Second Year\PRG281\Project\InterfaceTesting\InterfaceTesting\obj\Debug\InterfaceTesting.exe
+C:\Users\calvi\Documents\Belgium Assignments\Bachelor of Computing Second Year\PRG281\Project\InterfaceTesting\InterfaceTesting\obj\Debug\InterfaceTesting.pdb
